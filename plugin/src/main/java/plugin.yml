@@ -1,0 +1,11 @@
+name: HenrylangPlugin
+author: henrylang
+version: 1.0
+description: All basic mc.henrylang.net functionality.
+main: net.henrylang.mc.plugin.Plugin
+
+commands:
+  sbtoggle:
+    aliases: [scoreboardtoggle]
+    description: Toggles the scoreboard.
+    usage: /sbtoggle
